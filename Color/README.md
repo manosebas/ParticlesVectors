@@ -15,10 +15,10 @@ The project is highly customizable and expandable for diverse visual application
 Here are some examples of the particle effects in action:
 
 <img src="./images/1.png" alt="Particle Image 1" width="480" height="320">
-<img src="./images/2.png" alt="Particle Image 2" width="480" height="320">
-<img src="./images/3.png" alt="Particle Image 3" width="480" height="320">
-<img src="./images/4.png" alt="Particle Image 4" width="480" height="320">
-<img src="./images/5.png" alt="Particle Image 5" width="480" height="320">
+<img src="./images/2.png" alt="Particle Image 2" width="480" height="280">
+<img src="./images/3.png" alt="Particle Image 3" width="320" height="480">
+<img src="./images/4.png" alt="Particle Image 4" width="320" height="480">
+<img src="./images/5.png" alt="Particle Image 5" width="320" height="480">
 
 ## Installation
 To run this project, ensure you have the necessary environment set up. Download the project files and run `VectorParticleImageDisplay.pde` using Processing.
